@@ -1,0 +1,4 @@
+image_a: products/product_e.jpg
+image_b: products/product_f.jpg
+threshold: 0.28
+output_location: example_4_concatenated.jpg
